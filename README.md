@@ -1,16 +1,32 @@
-## Hi there 👋
+# Pedro Henrique Duarte Frugoli
 
-<!--
-**DuarteFrugoli/DuarteFrugoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Engenharia de Software no Inatel.  
+Atualmente desenvolvendo uma iniciação científica sobre **estabelecimento de chaves em camada física**.  
+Interesse em desenvolvimento de software, análise de dados e cibersegurança.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Linguagens
+- C / C++  
+- C#  
+- Java  
+- JavaScript, HTML, CSS  
+- Python  
+- Dart  
+
+---
+
+## Projetos
+- [Estabelecimento de Chaves (PKG)](https://github.com/DuarteFrugoli/IC_estabelecer_chaves_2025.git)  
+  Simulação de sucesso no estabelecimento de chaves criptográficas entre dois dipositivos em um sistema PKG em relação ao SNR.  
+
+---
+
+## Estatísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DuarteFrugoli&layout=compact&theme=default)
+
+---
+
+## Contato
+- Email: pedroduartefrugoli@gmail.com  
+- LinkedIn: [Pedro Frugoli](https://www.linkedin.com/in/pedro-frugoli)
