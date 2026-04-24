@@ -1,8 +1,8 @@
 # Pedro Henrique Duarte Frugoli
 
 Estudante de Engenharia de Software no Inatel.  
-Atualmente desenvolvendo uma iniciação científica sobre **estabelecimento de chaves em camada física**.  
-Interesse em desenvolvimento de software, análise de dados, cibersegurança, devops e QA.  
+Atualmente procurando oportunidades profissionais e trabalhando em projetos pessoais.  
+Interesse em desenvolvimento de software, análise de dados, cibersegurança, devops e QA.
 
 ---
 
